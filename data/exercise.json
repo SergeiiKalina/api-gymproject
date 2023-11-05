@@ -1,0 +1,6908 @@
+[
+  {
+    "id": 101,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 3,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Squats with sandbag",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "sandbag"
+    ],
+    "LFC": [
+      "hip joint",
+      "knees",
+      "back"
+    ],
+    "subCatigories": "fSq"
+  },
+  {
+    "id": 102,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430229025.jpg",
+    "category": "cardio",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Run",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "hip joint",
+      "knees",
+      "back"
+    ]
+  },
+  {
+    "id": 103,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567431021086.jpg",
+    "category": "functional",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Ring Dips",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "Ring"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ]
+  },
+  {
+    "id": 104,
+    "isComplited": false,
+    "img": "/images/mini/IMG-39ecee3d968d544e854d0d857e831f16-V.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Sit-up",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "104"
+  },
+  {
+    "id": 105,
+    "isComplited": false,
+    "img": "/images/mini/IMG-61c89f9962f96fccb47cc62b47f8b608-V.jpg",
+    "category": "legs",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Deadlift",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "dl"
+  },
+  {
+    "id": 106,
+    "isComplited": false,
+    "img": "/images/mini/IMG-da20a452df9f297b05dece90448605c0-V.jpg",
+    "category": "functional",
+    "fitnessLevel": 3,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "KB snatch",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "back"
+    ]
+  },
+  {
+    "id": 107,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Squat",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 108,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Lunges",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 109,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "functional",
+    "fitnessLevel": 3,
+    "sex": "male",
+    "title": "Over Head Squats",
+    "basicExercise": true,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "knees"
+    ]
+  },
+  {
+    "id": 110,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Cossacks Squats",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "110"
+  },
+  {
+    "id": 111,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Goblet Squats kettlebell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "fSq"
+  },
+  {
+    "id": 112,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Glute Bridge",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aBr"
+  },
+  {
+    "id": 113,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Push-ups from the knees",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 114,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Push-up",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 115,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Bench press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "elbows",
+      "shoulders"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 116,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "title": "Dips",
+    "basicExercise": true,
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dips"
+    ],
+    "LFC": [
+      "elbows",
+      "shoulders"
+    ],
+    "subCatigories": "du"
+  },
+  {
+    "id": 117,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Reverse Box Dips",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "elbows",
+      "shoulders"
+    ],
+    "subCatigories": "117"
+  },
+  {
+    "id": 118,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Australian revers grip pull-ups",
+    "basicExercise": true,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 119,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Pull-up",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 120,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Horizontal pull",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 121,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Vertical pull",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 122,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Solder Press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "ad"
+  },
+  {
+    "id": 123,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Lateral Raise Swings",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 124,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "V-up",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "hothing"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "124"
+  },
+  {
+    "id": 125,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Ab crunch",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "hothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "125"
+  },
+  {
+    "id": 126,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alt v-up",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "hothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "126"
+  },
+  {
+    "id": 127,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alt Front Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 128,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Seated Dumbbell Press",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "adD"
+  },
+  {
+    "id": 129,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Prone Opposite Arm Leg Lift",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "hothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "129"
+  },
+  {
+    "id": 130,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Prone Leg Raise",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "hothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "130"
+  },
+  {
+    "id": 131,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Overhead Dumbbell Lateral Raise",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 132,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Front Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 133,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Resistance Band Hammer Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 134,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Hammer Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 135,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Standing Tricep Kickback",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "kb"
+  },
+  {
+    "id": 136,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Banded Tricep Extension",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 137,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Press Svend",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "137"
+  },
+  {
+    "id": 138,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Box Step",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "box"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "bs"
+  },
+  {
+    "id": 139,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Leg Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "139"
+  },
+  {
+    "id": 140,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Leg Curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "140"
+  },
+  {
+    "id": 141,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Reverse-Grip Pull-Up",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 142,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Leg Abduction",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "142"
+  },
+  {
+    "id": 143,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Leg Adduction",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "143"
+  },
+  {
+    "id": 144,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "TRX Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "TRX"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ap"
+  },
+  {
+    "id": 145,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Lat Pulldown Loop Mini-Band",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "145"
+  },
+  {
+    "id": 146,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Chest Fly with Resistance Band",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 147,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dips with Resistance Band",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "elbows",
+      "shoulders"
+    ],
+    "subCatigories": "du"
+  },
+  {
+    "id": 148,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Squat Sumo",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "hothing"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 149,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430229025.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Air Sissy Squat",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 150,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567431021086.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Squat with Feet Together",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 151,
+    "isComplited": false,
+    "img": "/images/mini/IMG-39ecee3d968d544e854d0d857e831f16-V.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Over head Squat with PVS",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "PVS"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 152,
+    "isComplited": false,
+    "img": "/images/mini/IMG-61c89f9962f96fccb47cc62b47f8b608-V.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Over head Squat with fitball",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "fitball"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 153,
+    "isComplited": false,
+    "img": "/images/mini/IMG-da20a452df9f297b05dece90448605c0-V.jpg",
+    "category": "legs",
+    "fitnessLevel": 3,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Pistol squat",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "back",
+      "kness"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 154,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Goblet Squats dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bSq"
+  },
+  {
+    "id": 155,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Back Squat",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "bSq"
+  },
+  {
+    "id": 156,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "title": "Front Squat",
+    "basicExercise": true,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "fSq"
+  },
+  {
+    "id": 157,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Back Sumo Squat",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "bSq"
+  },
+  {
+    "id": 158,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Back Squat smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "bSq"
+  },
+  {
+    "id": 159,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Back Sumo Squat smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "bSq"
+  },
+  {
+    "id": 160,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Front Squat smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "fSq"
+  },
+  {
+    "id": 161,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Leg press Sumo",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "161"
+  },
+  {
+    "id": 162,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Leg press with leg together",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "162"
+  },
+  {
+    "id": 163,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Single leg press",
+    "basicExercise": true,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "163"
+  },
+  {
+    "id": 164,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Leg press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "164"
+  },
+  {
+    "id": 165,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Hack Squat",
+    "basicExercise": true,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "165"
+  },
+  {
+    "id": 166,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Hack Squat Sumo",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "166"
+  },
+  {
+    "id": 167,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Hack Squat with leg together",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "167"
+  },
+  {
+    "id": 168,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Lunges Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 169,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Lunges Kettlebell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 170,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Lunges Reverse ",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 171,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Lunges Reverse Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 172,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Lunges Reverse Kettlebell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 173,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 3,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Back Lunges",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "knees",
+      "back",
+      "hip joint"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 174,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Front Lunges",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "knees",
+      "back",
+      "hip joint"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 175,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Back Lunges Reverse",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "knees",
+      "back",
+      "hip joint"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 176,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Front Lunges Reverse",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "knees",
+      "back",
+      "hip joint"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 177,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "functional",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Over Head Lunges Dumbbell x1",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "knees",
+      "back",
+      "hip joint",
+      "shoulders"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 178,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "functional",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Over Head Lunges Kettlebell x2",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "knees",
+      "back",
+      "hip joint",
+      "shoulders"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 179,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Bulgarian Split Squats",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 180,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Bulgarian Split Squats Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 181,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Bulgarian Split Squats smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees",
+      "back"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 182,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": true,
+    "title": "Air Good morning",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "agm"
+  },
+  {
+    "id": 183,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance Band Good morning",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "gm"
+  },
+  {
+    "id": 184,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance Band Squat",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 185,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "female",
+    "basicExercise": true,
+    "title": "Back Good morning",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "gm"
+  },
+  {
+    "id": 186,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Good morning smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "gm"
+  },
+  {
+    "id": 187,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Lunges smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "ln"
+  },
+  {
+    "id": 188,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance Band Deadlift",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "dl"
+  },
+  {
+    "id": 189,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "DeadLift with PVS",
+    "workingOut": [
+      "gym",
+      " home"
+    ],
+    "inventory": [
+      "PVS"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "dl"
+  },
+  {
+    "id": 190,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Deadlift Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "dl"
+  },
+  {
+    "id": 191,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Deadlift KettleBell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "dl"
+  },
+  {
+    "id": 192,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Sumo DeadLift",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "kness"
+    ],
+    "subCatigories": "sDl"
+  },
+  {
+    "id": 193,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "DeadLift smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "dl"
+  },
+  {
+    "id": 194,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Sumo DeadLift smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "sDl"
+  },
+  {
+    "id": 195,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Sumo DeadLift Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "hip joint",
+      "back"
+    ],
+    "subCatigories": "sDl"
+  },
+  {
+    "id": 196,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430229025.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Sumo DeadLift KettleBell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "hip joint",
+      "back"
+    ],
+    "subCatigories": "sDl"
+  },
+  {
+    "id": 197,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567431021086.jpg",
+    "category": "biceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band Reverse-Grip Pull-Up",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band",
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 198,
+    "isComplited": false,
+    "img": "/images/mini/IMG-39ecee3d968d544e854d0d857e831f16-V.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Glute Bridge Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "gb"
+  },
+  {
+    "id": 199,
+    "isComplited": false,
+    "img": "/images/mini/IMG-61c89f9962f96fccb47cc62b47f8b608-V.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Glute Bridge KettleBell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettleBell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "gb"
+  },
+  {
+    "id": 200,
+    "isComplited": false,
+    "img": "/images/mini/IMG-da20a452df9f297b05dece90448605c0-V.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Resistance Band Glute Bridge",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aGb"
+  },
+  {
+    "id": 201,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Glute Bridge Barbell",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "gb"
+  },
+  {
+    "id": 202,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Glute Bridge smith machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "gb"
+  },
+  {
+    "id": 203,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Glute Bridge machine",
+    "basicExercise": true,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "gb"
+  },
+  {
+    "id": 204,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Glute Bridge one leg",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aGb"
+  },
+  {
+    "id": 205,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Glute Bridge one leg on box",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aGb"
+  },
+  {
+    "id": 206,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Air Box Step",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bs"
+  },
+  {
+    "id": 207,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Box Step Barbell",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "knees",
+      "back"
+    ],
+    "subCatigories": "bs"
+  },
+  {
+    "id": 208,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Box Step Kettlebell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "bs"
+  },
+  {
+    "id": 209,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Box Step Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "knees"
+    ],
+    "subCatigories": "bs"
+  },
+  {
+    "id": 210,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Seated Leg Curl",
+    "basicExercise": false,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "210"
+  },
+  {
+    "id": 211,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Back Extesions",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "211"
+  },
+  {
+    "id": 212,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "title": "Leg Abduction on Machine",
+    "basicExercise": false,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "212"
+  },
+  {
+    "id": 213,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Leg Adduction on Machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "213"
+  },
+  {
+    "id": 214,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Inner Thigh Leg Lifts",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "214"
+  },
+  {
+    "id": 215,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Fire Hydrant Exercise",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "215"
+  },
+  {
+    "id": 216,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Donkey Kicks",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "216"
+  },
+  {
+    "id": 217,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Stand Side Leg Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "217"
+  },
+  {
+    "id": 218,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Side-Lying Leg Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "hothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "218"
+  },
+  {
+    "id": 219,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Resistance Band Stand Side Leg Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "219"
+  },
+  {
+    "id": 220,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Resistance Band Side-Lying Leg Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "220"
+  },
+  {
+    "id": 221,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Side Leg Raises on Machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "221"
+  },
+  {
+    "id": 222,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Side Lying Hip Raise & Abduction",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "222"
+  },
+  {
+    "id": 223,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance Band Air squat",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "aSq"
+  },
+  {
+    "id": 224,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance Band Back squat",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "band",
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "bSq"
+  },
+  {
+    "id": 225,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance Band Front squat",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell",
+      "band"
+    ],
+    "LFC": [
+      "back",
+      "knees",
+      "hip joint"
+    ],
+    "subCatigories": "fSq"
+  },
+  {
+    "id": 226,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "legs",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Side Plank Clamshell with Hold",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "226"
+  },
+  {
+    "id": 227,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Standing Kettlebell Press",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ad"
+  },
+  {
+    "id": 228,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Arms Overhead Outward Push with Short Resistance Band",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "adB"
+  },
+  {
+    "id": 229,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Arnold Press",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "adD"
+  },
+  {
+    "id": 230,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Shoulder Press on Machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "adM"
+  },
+  {
+    "id": 231,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Standing Dumbbell Shoulder Press with Lunge one-arm",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "adD"
+  },
+  {
+    "id": 232,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Barbell Push Press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "shoulders"
+    ],
+    "subCatigories": "ad"
+  },
+  {
+    "id": 233,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dumbbell Push Press",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "back",
+      "shoulders"
+    ],
+    "subCatigories": "adD"
+  },
+  {
+    "id": 234,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Barbell Upright Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "ud"
+  },
+  {
+    "id": 235,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Plate Upright Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "plate"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "ud"
+  },
+  {
+    "id": 236,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dumbbell Upright Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "ud"
+  },
+  {
+    "id": 237,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Kettlebell Upright Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "ud"
+  },
+  {
+    "id": 238,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Machine Upright Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "ud"
+  },
+  {
+    "id": 239,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Front Plate Raises",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "plate"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 240,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Front Plate Raises with Rotation",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "plate"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 241,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Barbell Front Raise",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back",
+      "shoulders"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 242,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Lateral Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "hothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 243,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430229025.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Dumbbell Front Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 244,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567431021086.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Dumbbell Front Raises with Hammer Grip",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 245,
+    "isComplited": false,
+    "img": "/images/mini/IMG-39ecee3d968d544e854d0d857e831f16-V.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Front Raises with Supination",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 246,
+    "isComplited": false,
+    "img": "/images/mini/IMG-61c89f9962f96fccb47cc62b47f8b608-V.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Dumbbell Front Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 247,
+    "isComplited": false,
+    "img": "/images/mini/IMG-da20a452df9f297b05dece90448605c0-V.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Dumbbell Front Hammer Raise",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 248,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Front Raises with Supination",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 249,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Alternating Front Raises with Supination",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 250,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Rope Front Raises",
+    "basicExercise": false,
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 251,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Rope Front Raises Alternating Arms",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 252,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Cable Front Raises",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 253,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Reverse Cable Front Raises",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 254,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Resistance Band Front Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 255,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Resistance Band Front Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 256,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Overhead Body Bar Front Raises",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bodybar"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 257,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Overhead Dumbbell Front Raises",
+    "basicExercise": true,
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "fd"
+  },
+  {
+    "id": 258,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Lateral Raise Swings",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 259,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "title": "Seated Alternating Lateral Raises",
+    "basicExercise": false,
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 260,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Lateral Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 261,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Side lateral raises machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 262,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "One-Arm Cable Lateral Raises",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 263,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "One-Arm Dumbbell Lateral Raises on an Incline",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 264,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Rear Delt Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 265,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Dumbbell Rear Delt Raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 266,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "The rear dekt swing",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 267,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Rear Delt Flyes on Pec Deck",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 268,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Cable Rear Delt Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 269,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Hammer Strength Seated Row with rear delt",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 270,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Resistance Band Rear Delt Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 271,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Single Arm Resistance Band Rear Delt Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 272,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Single Arm Resistance Band Rear Delt Row with Rotation",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 273,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Standing Resistance Band Shoulder Internal Rotation",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rm"
+  },
+  {
+    "id": 274,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Standing Resistance Band Shoulder External Rotation",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rm"
+  },
+  {
+    "id": 275,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Side-Lying Shoulder External Rotation",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rm"
+  },
+  {
+    "id": 276,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Shoulder External Rotation with Elbow on Knee (Single-arm)",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rm"
+  },
+  {
+    "id": 277,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Lateral Raises to Front Raises to Reverse Flyes",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rd"
+  },
+  {
+    "id": 278,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Lying lateral raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "md"
+  },
+  {
+    "id": 279,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Pull-up Reverse Grip",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 280,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Parallel Bar Pull-Ups",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 281,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Australian pull-ups",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ap"
+  },
+  {
+    "id": 282,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Alternating Lat Pulldown Loop Mini-Band",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "282"
+  },
+  {
+    "id": 283,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Ring Row",
+    "workingOut": [
+      "gym",
+      " home"
+    ],
+    "inventory": [
+      "ring"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ap"
+  },
+  {
+    "id": 284,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Wide-grip lat pulldowns",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 285,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Reverse-grip Lat Pulldowns",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 286,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Parallel-grip Lat Pulldown",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 287,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Wide-grip Seated Cable Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 288,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Reverse-grip Seated Cable Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 289,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Parallel-grip Seated Cable Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 290,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Cable Lat Pullover",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "290"
+  },
+  {
+    "id": 291,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Hammer strength lat Pulldown",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 292,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Hammer strength lat Seated Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 293,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Single Arm Hammer strength lat Seated Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 294,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Single Arm Hammer strength lat Pulldown",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 295,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Single Arm pulldowns",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 296,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Single Arm Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 297,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 3,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Bent-Over Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "bo"
+  },
+  {
+    "id": 298,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Bent-Over Row Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "bo"
+  },
+  {
+    "id": 299,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Incline Cable Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "299"
+  },
+  {
+    "id": 300,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Standing Incline Cable Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "300"
+  },
+  {
+    "id": 301,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Kneeling Cable Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 302,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Kneeling Cable Crossover Lat Pull Down",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 303,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Reverse Pec Deck Fly",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "303"
+  },
+  {
+    "id": 304,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dumbbell Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "304"
+  },
+  {
+    "id": 305,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band Bent-over Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 306,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band lat pulldown",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 307,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band lat Seated Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 308,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Alternating resistance band lat pulldown",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "vp"
+  },
+  {
+    "id": 309,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Alternating Resistance band lat Seated Cable Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hp"
+  },
+  {
+    "id": 310,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dumbbell Close-grip bench press",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "310"
+  },
+  {
+    "id": 311,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Lying prone lateral raises",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "311"
+  },
+  {
+    "id": 312,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band pull-ups",
+    "workingOut": [
+      "gym",
+      " home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 313,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Pull-ups with assisted machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 314,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Parallel Bar Pull-Ups with assisted machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 315,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band Parallel Bar pull-ups",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 316,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Resistance band Reverse grip pull-ups",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 317,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band Parallel Bar Pull-Ups",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 318,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Push-ups with a barbel",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pu"
+  },
+  {
+    "id": 319,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Bench press Dumbbell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "dp"
+  },
+  {
+    "id": 320,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Bench press KettleBell",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "dp"
+  },
+  {
+    "id": 321,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "45-degree bench press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 322,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "45-degree bench press Dumbbell",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "dp"
+  },
+  {
+    "id": 323,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "45-degree bench press KettleBell",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "kp"
+  },
+  {
+    "id": 324,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "30-degree bench press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 325,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "30-degree bench press Dumbbell",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "30bp"
+  },
+  {
+    "id": 326,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "30-degree bench press KettleBell",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "kettlebell"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "30bp"
+  },
+  {
+    "id": 327,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dip with resistance band",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "du"
+  },
+  {
+    "id": 328,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dips with assistance",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "du"
+  },
+  {
+    "id": 329,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Chest press on a machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "mp"
+  },
+  {
+    "id": 330,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Chest cable press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "cp"
+  },
+  {
+    "id": 331,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Lever chest press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "mp"
+  },
+  {
+    "id": 332,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "30-degree Dumbbell chest fly",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 333,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell chest fly",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 334,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "45-degree Dumbbell chest fly",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 335,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Pec deck fly",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 336,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Seated Cable Flys",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 337,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Cable Flys",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 338,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Low Cable Flys",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "338"
+  },
+  {
+    "id": 339,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "High Cable Flys",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "339"
+  },
+  {
+    "id": 340,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Smith Machine Bench Press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 341,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "30-degree Smith Machine Bench Press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 342,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "45-degree Smith Machine Bench Press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders",
+      "elbows"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 343,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Around the world ",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "aw"
+  },
+  {
+    "id": 344,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "30-degree Around the world",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "aw"
+  },
+  {
+    "id": 345,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "45-degree Around the world",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "aw"
+  },
+  {
+    "id": 346,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Cable Chest Press on Bench",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cp"
+  },
+  {
+    "id": 347,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "30-degree Cable Chest Press on Bench",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cp"
+  },
+  {
+    "id": 348,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "45-degree Cable Chest Press on Bench",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cp"
+  },
+  {
+    "id": 349,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Cable Flyes (Seated Position)",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 350,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Cable Flyes (Lying Position)",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 351,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pectoral",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Incline Cable Flyes",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "shoulders"
+    ],
+    "subCatigories": "cf"
+  },
+  {
+    "id": 352,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Pull-ups with assisted machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bp"
+  },
+  {
+    "id": 353,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": "replays",
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dumbbell Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ]
+  },
+  {
+    "id": 354,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": "replays",
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band Bent-over Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ]
+  },
+  {
+    "id": 355,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": "replays",
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band lat pulldown",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ]
+  },
+  {
+    "id": 356,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": "replays",
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Resistance band lat Seated Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ]
+  },
+  {
+    "id": 357,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": "replays",
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Alternating resistance band lat pulldown",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ]
+  },
+  {
+    "id": 358,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": "replays",
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Alternating Resistance band lat Seated Cable Row",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ]
+  },
+  {
+    "id": 359,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Barbell Bicep Curls",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "bb"
+  },
+  {
+    "id": 360,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Z-bar Bicep Curls",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bb"
+  },
+  {
+    "id": 361,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Preacher Curl with EZ-bar",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bb"
+  },
+  {
+    "id": 362,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Scott Bench Bicep Curls",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "362"
+  },
+  {
+    "id": 363,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Hammer Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 364,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Supinated Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "sb"
+  },
+  {
+    "id": 365,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Dumbbell Supinated Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "sb"
+  },
+  {
+    "id": 366,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell biceps curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "362"
+  },
+  {
+    "id": 367,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Dumbbell biceps curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 368,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Cable rope curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cb"
+  },
+  {
+    "id": 369,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Dumbbell Preacher Curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pb"
+  },
+  {
+    "id": 370,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Preacher Curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "pb"
+  },
+  {
+    "id": 371,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Dumbbell biceps curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 372,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Dumbbell Supinated Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "sb"
+  },
+  {
+    "id": 373,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Hammer Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 374,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Incline Hammer Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 375,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Incline Hammer Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "hb"
+  },
+  {
+    "id": 376,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Dumbbell Reverse Curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rb"
+  },
+  {
+    "id": 377,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Alternating Dumbbell Reverse Curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rb"
+  },
+  {
+    "id": 378,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Reverse EZ Bar Curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "378"
+  },
+  {
+    "id": 379,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Alternating Cable Curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cb"
+  },
+  {
+    "id": 380,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Cable Curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cb"
+  },
+  {
+    "id": 381,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Zottman Curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "zb"
+  },
+  {
+    "id": 382,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Alternating Zottman Curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "zb"
+  },
+  {
+    "id": 383,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Biceps Curls machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machien"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "zb"
+  },
+  {
+    "id": 384,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Banded Bicep Curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bb"
+  },
+  {
+    "id": 385,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Lying Rope Cable Curl",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "cb"
+  },
+  {
+    "id": 386,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "biceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Reverse Banded Bicep Curl",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "rb"
+  },
+  {
+    "id": 387,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Single arm Standing Tricep Kickback",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "kb"
+  },
+  {
+    "id": 388,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dips",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dips"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "dt"
+  },
+  {
+    "id": 389,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Banded Dips",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "dt"
+  },
+  {
+    "id": 390,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Dips with assisted machine",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "dt"
+  },
+  {
+    "id": 391,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": true,
+    "title": "Close-grip bench press",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "barbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "391"
+  },
+  {
+    "id": 392,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Single Arm Dumbbell Skull Crusher",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "st"
+  },
+  {
+    "id": 393,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dumbbell Skull Crusher",
+    "workingOut": [
+      "gym",
+      " home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "st"
+  },
+  {
+    "id": 394,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Skull Crusher",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "st"
+  },
+  {
+    "id": 395,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Skull Crusher Z-bar",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "st"
+  },
+  {
+    "id": 396,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Incline Skull Crusher Z-bar",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "bar"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "st"
+  },
+  {
+    "id": 397,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Dumbbell Seated Overhead Tricep Extension",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 398,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Single Arm Dumbbell Seated Overhead Tricep Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 399,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Banded Tricep Kickback",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "kb"
+  },
+  {
+    "id": 400,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Seated preacher Overhead Tricep Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 401,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Incline Alternating Dumbbell Skull Crusher",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "st"
+  },
+  {
+    "id": 402,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Overhead Cable Tricep Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "elbows"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 403,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Cable rope Tricep Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "ct"
+  },
+  {
+    "id": 404,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": "replays",
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Seated Dumbbell Supinated Curls",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ]
+  },
+  {
+    "id": 405,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Cable Tricep Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 406,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Lying Rope Cable Tricep Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 407,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Triceps machine extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 408,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Single arm cable tricep extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 409,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Seated Overhead Cable Tricep Extension",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 410,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Incline Push up Close grip",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "410"
+  },
+  {
+    "id": 411,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Banded Overhead Tricep Extension",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 412,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Banded Standing Tricep Kickback",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "kb"
+  },
+  {
+    "id": 413,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 1,
+    "sex": "female",
+    "basicExercise": false,
+    "title": "Bodybar Overhead Tricep Extension",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "bodybar"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 414,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "triceps",
+    "fitnessLevel": 2,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Barbell Overhead Tricep Extension",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "et"
+  },
+  {
+    "id": 415,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Arms Banded Leg Lowering",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "415"
+  },
+  {
+    "id": 416,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Psoas March",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "416"
+  },
+  {
+    "id": 417,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 3,
+    "sex": "male",
+    "basicExercise": false,
+    "title": "Eccentric Dragon Flag",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "417"
+  },
+  {
+    "id": 418,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Decline Sit-Up",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "418"
+  },
+  {
+    "id": 419,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Straight Leg Lower",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "419"
+  },
+  {
+    "id": 420,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Ab Wheel Rollout",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "roll"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "420"
+  },
+  {
+    "id": 421,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Swiss Ball Crunch",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "fitball"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "421"
+  },
+  {
+    "id": 422,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 3,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Banded  Deadbug",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "band"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "422"
+  },
+  {
+    "id": 423,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Dead Bug With Arms By Side",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "423"
+  },
+  {
+    "id": 424,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Decline Oblique Sit-Up",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "424"
+  },
+  {
+    "id": 425,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Captain's Chair Leg Raise",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "425"
+  },
+  {
+    "id": 426,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Captain's Chair Knees Raise",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "426"
+  },
+  {
+    "id": 427,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Anchored Sit Up",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "427"
+  },
+  {
+    "id": 428,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Reverse Crunch",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "428"
+  },
+  {
+    "id": 429,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Cross-Body Toe Touches",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "429"
+  },
+  {
+    "id": 430,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Elevated Crunches",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "430"
+  },
+  {
+    "id": 431,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "pres",
+    "fitnessLevel": 1,
+    "sex": "unsex",
+    "basicExercise": false,
+    "title": "Plank Toe Touch",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "nothing"
+    ],
+    "LFC": [
+      "back"
+    ],
+    "subCatigories": "431"
+  },
+  {
+    "id": 432,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "back",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Cable Bent-Over Row",
+    "workingOut": [
+      "gym"
+    ],
+    "inventory": [
+      "machine"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "bo"
+  },
+  {
+    "id": 433,
+    "isComplited": false,
+    "img": "/images/mini/FB_IMG_1567430209194.jpg",
+    "category": "shoulders",
+    "fitnessLevel": 2,
+    "sex": "unsex",
+    "basicExercise": true,
+    "title": "Seated Dumbbell Military Press (Neutral Grip)",
+    "workingOut": [
+      "gym",
+      "home"
+    ],
+    "inventory": [
+      "dumbbell"
+    ],
+    "LFC": [
+      "nothing"
+    ],
+    "subCatigories": "adD"
+  }
+]
