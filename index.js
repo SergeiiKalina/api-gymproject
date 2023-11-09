@@ -14,7 +14,7 @@ app.get("/exercise", (req, res) => {
 
 app.get("/category", (req, res) => {
     let set = new Set()
-    for (let el of training) {
+    for (let el of exercise) {
         set.add(el.category)
     }
     res.json(Array.from(set))
