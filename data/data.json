@@ -1,0 +1,410 @@
+[
+    {
+        "day": "Понеділок",
+        "training": [
+            {
+                "time": "8:00",
+                "name": "ABS",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "b8ae163e-546a-4b63-b645-0247235cee9f"
+            },
+            {
+                "time": "9:00",
+                "name": "Crossfit",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "798545ac-2434-47f2-80de-3ce12f6f53b1"
+            },
+            {
+                "time": "10:00",
+                "name": "Fitness",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "8be49561-8158-4161-be2e-50d97b6f84ee"
+            },
+            {
+                "time": "11:00",
+                "name": "huitnes",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "55a1354e-18fe-48d9-b9a8-512ea67b9e8c"
+            },
+            {
+                "time": "12:00",
+                "name": "Аренда",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "b82e5b54-c96f-4883-9493-871d329c5364"
+            },
+            {
+                "time": "13:00",
+                "name": "Аренда",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "9aca5786-289c-48cd-b1f6-99e1577cd015"
+            },
+            {
+                "time": "14:00",
+                "name": "Аренда",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "3159e9e1-4cb8-4f9d-9a7f-06107a9aa61a"
+            },
+            {
+                "time": "15:00",
+                "name": "Аренда",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "8b2865ce-407c-4e2c-90c0-e612d0eac898"
+            },
+            {
+                "time": "16:00",
+                "name": "Аренда",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "b9d8d506-0f79-4e26-b479-06c7ab2a5856"
+            },
+            {
+                "time": "17:00",
+                "name": "Pilates",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "43e79067-6e47-4a44-9fd9-2b1eb952590e"
+            },
+            {
+                "time": "18:00",
+                "name": "stretching",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "273ed97c-1016-49b4-b268-5d1d80c04d55"
+            },
+            {
+                "time": "19:00",
+                "name": "physical education",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "e2ba84fa-1ea1-41bd-adb2-2dfc4b745efc"
+            },
+            {
+                "time": "20:00",
+                "name": "functional training",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "2828e19a-4adf-4b7e-aa85-dcc0716235a1"
+            }
+        ],
+        "id": "55762761-fae2-48ae-8367-7cf122ea87ff"
+    },
+    {
+        "day": "Вівторок",
+        "training": [
+            {
+                "time": "8:00",
+                "name": "ABS",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "7c2d5392-4e3b-4629-b969-5069a452e3f2"
+            },
+            {
+                "time": "9:00",
+                "name": "Crossfit",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "110f8399-e46e-4af4-af99-ae7d173c96f5"
+            },
+            {
+                "time": "10:00",
+                "name": "Fitness",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "19415e12-97c7-4f4c-8885-ea4e2996d9ba"
+            },
+            {
+                "time": "11:00",
+                "name": "huitnes",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "3f2d122a-2249-4b8c-8cc7-00352b1d1e4f"
+            },
+            {
+                "time": "17:00",
+                "name": "Pilates",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "53173eaa-8975-4b41-858e-7ba212848cad"
+            },
+            {
+                "time": "18:00",
+                "name": "stretching",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "f4e00004-a3a5-481d-a952-72ee69e8c965"
+            },
+            {
+                "time": "19:00",
+                "name": "physical education",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "40355144-1de2-4191-aebb-8d1c99648a09"
+            },
+            {
+                "time": "20:00",
+                "name": "functional training",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "9568ca8c-cae7-446c-b460-ea2d658b35d4"
+            }
+        ],
+        "id": "99bbf716-fff6-494c-b97f-171924d7cc54"
+    },
+    {
+        "day": "Середа",
+        "training": [
+            {
+                "time": "8:00",
+                "name": "ABS",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "fd39a4c4-feb8-41df-b3b7-77a3ae54fcc4"
+            },
+            {
+                "time": "9:00",
+                "name": "Crossfit",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "8987c614-b55a-42d0-a337-bdb86d153a2b"
+            },
+            {
+                "time": "10:00",
+                "name": "Fitness",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "f632a3f7-f1aa-4b04-8d3a-e7c7f41ce25b"
+            },
+            {
+                "time": "11:00",
+                "name": "huitnes",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "80b2ac82-ece5-4a52-90f5-859af9293d0a"
+            },
+            {
+                "time": "17:00",
+                "name": "Pilates",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "472872bf-2908-4af7-961a-78c61be4c32a"
+            },
+            {
+                "time": "18:00",
+                "name": "stretching",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "699ccc6d-1a3c-44d9-b843-8c641845e11f"
+            },
+            {
+                "time": "19:00",
+                "name": "physical education",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "53a20322-a9fe-4098-813a-b9b10f83ff77"
+            },
+            {
+                "time": "20:00",
+                "name": "functional training",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "f2470520-6b38-40fc-961c-d8ef6252a3a3"
+            }
+        ],
+        "id": "d7d421a1-ff3f-4140-8cf0-4dbe441af3ec"
+    },
+    {
+        "day": "Четверг",
+        "training": [
+            {
+                "time": "8:00",
+                "name": "ABS",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "d0d6da5b-26e7-4055-a7e6-de58eb0f8f1a"
+            },
+            {
+                "time": "9:00",
+                "name": "Crossfit",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "88038e5e-0c44-4b78-b1e2-c24055703902"
+            },
+            {
+                "time": "10:00",
+                "name": "Fitness",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "2db938de-6f4c-4835-9fed-d1df4e420a47"
+            },
+            {
+                "time": "11:00",
+                "name": "huitnes",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "1d1b4f21-dbc0-4c11-a60b-1802e2fac54d"
+            },
+            {
+                "time": "17:00",
+                "name": "Pilates",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "32ed8372-65a0-4732-a830-3df71992ba37"
+            },
+            {
+                "time": "18:00",
+                "name": "stretching",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "e86fbabd-8d42-4d91-959d-660433fc140f"
+            },
+            {
+                "time": "19:00",
+                "name": "physical education",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "e4435a50-db6f-4dd1-aa3f-4092741060f2"
+            },
+            {
+                "time": "20:00",
+                "name": "functional training",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "9df0dc45-5bd6-4b4a-8a62-95f218dd7159"
+            }
+        ],
+        "id": "5f890a52-3567-486d-a435-dd51e5007859"
+    },
+    {
+        "day": "П'ятниця",
+        "training": [
+            {
+                "time": "8:00",
+                "name": "ABS",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "905d0bb7-643a-4334-9cd7-5d2a22d4229e"
+            },
+            {
+                "time": "9:00",
+                "name": "Crossfit",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "c9da059f-36f4-4c64-91bd-4f30a443fbfd"
+            },
+            {
+                "time": "10:00",
+                "name": "Fitness",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "5ba3d6aa-1284-4d2f-a860-1eb1720c705a"
+            },
+            {
+                "time": "11:00",
+                "name": "huitnes",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "36b09419-7bb6-4e5e-867e-64d7f3b662ce"
+            },
+            {
+                "time": "17:00",
+                "name": "Pilates",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "ca3e08d0-76be-4510-8128-290b321ffd44"
+            },
+            {
+                "time": "18:00",
+                "name": "stretching",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "fd6cd127-6b0c-4b1e-aeab-1d50a6dc5bba"
+            },
+            {
+                "time": "19:00",
+                "name": "physical education",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "bad1270f-cc4d-4f91-81ad-3b21f66b2e83"
+            },
+            {
+                "time": "20:00",
+                "name": "functional training",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "099996b2-3449-46cb-b6eb-3d2f864bab73"
+            }
+        ],
+        "id": "e4995ff9-ef73-4954-b14e-0fad03e93175"
+    },
+    {
+        "day": "Субота",
+        "training": [
+            {
+                "time": "8:00",
+                "name": "ABS",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "641a3647-10ac-4144-a6bc-f0618eb22e13"
+            },
+            {
+                "time": "9:00",
+                "name": "Crossfit",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "6a168e35-3882-43f0-bdef-ae226a04682f"
+            },
+            {
+                "time": "10:00",
+                "name": "Fitness",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "1ca9ff65-dc6f-4497-b899-78ab9ac295d8"
+            },
+            {
+                "time": "11:00",
+                "name": "huitnes",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "49905ba6-ebf3-426d-883c-7bb9dd7ab5d2"
+            },
+            {
+                "time": "17:00",
+                "name": "Pilates",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "1b4c7aea-0693-4f6d-951a-ea29c090465c"
+            },
+            {
+                "time": "18:00",
+                "name": "stretching",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "3a7a1696-8266-44c7-be84-6d32b34a3530"
+            },
+            {
+                "time": "19:00",
+                "name": "physical education",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "fd9aeacc-7f11-401d-8564-5d81dc1ada81"
+            },
+            {
+                "time": "20:00",
+                "name": "functional training",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "6e1a8657-2705-4422-88f7-b01564948827"
+            }
+        ],
+        "id": "4ca1cd73-4aec-4fa5-8352-310fa3095b78"
+    },
+    {
+        "day": "Неділя",
+        "training": [
+            {
+                "time": "8:00",
+                "name": "ABS",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "56b2cc04-5888-4bd9-8126-38ba17cc089e"
+            },
+            {
+                "time": "9:00",
+                "name": "Crossfit",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "d982dc83-1e3d-479c-8efe-7d43e4984c45"
+            },
+            {
+                "time": "10:00",
+                "name": "Fitness",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "828b668e-bde3-421a-9fca-c1f1c13b7c86"
+            },
+            {
+                "time": "11:00",
+                "name": "huitnes",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "c60e284f-0ade-4549-8350-d515c5b90063"
+            },
+            {
+                "time": "17:00",
+                "name": "Pilates",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "50d0c12d-a328-4701-8612-5b8896960cf5"
+            },
+            {
+                "time": "18:00",
+                "name": "stretching",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "4c0ac755-fd88-46dc-83bf-d4c9fcf4cd5d"
+            },
+            {
+                "time": "19:00",
+                "name": "physical education",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "0deacbfb-92ef-41b1-b927-88aafd082e4a"
+            },
+            {
+                "time": "20:00",
+                "name": "functional training",
+                "description": "Lorem ipsum dolor sit, amet consectetur\nadipisicing elit. Voluptas at distinctio nobis\nmagni ea facilis earum qui.",
+                "id": "bbb27383-2c77-417a-aad1-57377cb04c3f"
+            }
+        ],
+        "id": "901f822e-0fc2-451b-b99c-3d780923449f"
+    }
+]
