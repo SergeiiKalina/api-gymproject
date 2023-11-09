@@ -20,6 +20,22 @@ app.get("/category", (req, res) => {
     res.json(Array.from(set))
 })
 
+app.post("/filter", (req, res) => {
+    const filterObject = req.body
+
+    res.json(exercise.filter((item) => filterObject.includes(item.category)))
+})
+
+app.post("/current-page", (req, res) => {
+    const filterObject = req.body
+    let currentPageExercise = filterObject.arrTraining.slice(
+        filterObject.start,
+        filterObject.end
+    )
+
+    res.json(currentPageExercise)
+})
+
 app.post("/add-exercise", async (req, res) => {
     try {
         const newExercise = req.body
