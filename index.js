@@ -1,12 +1,24 @@
 const express = require("express")
 const cors = require("cors")
+const cookieParser = require("cookie-parser")
 const fs = require("fs/promises")
+require("dotenv").config()
 const exercise = require("./data/exercise.json")
-
+const mongoose = require("mongoose")
+const router = require("./server/router/index")
 const app = express()
+const errorMiddleware = require("./server/middlewares/error-middlewares.js")
 
-app.use(cors())
 app.use(express.json())
+app.use(cookieParser())
+app.use(
+    cors({
+        origin: process.env.CLIENT_URL,
+        credentials: true,
+    })
+)
+app.use("/api", router)
+app.use(errorMiddleware)
 
 app.get("/exercise", (req, res) => {
     res.json(exercise)
@@ -53,8 +65,16 @@ app.post("/add-exercise", async (req, res) => {
     }
 })
 
-const port = process.env.PORT || 5555
+const start = async () => {
+    try {
+        await mongoose.connect(process.env.DB_URL)
+        const port = process.env.PORT || 4000
 
-app.listen(port, () => {
-    console.log(` server is running on port ${port}`)
-})
+        app.listen(port, () => {
+            console.log(` server is running on port ${port}`)
+        })
+    } catch (e) {
+        console.log(e)
+    }
+}
+start()
