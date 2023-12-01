@@ -7,8 +7,9 @@ const UserDto = require("../dtos/user-dto.js")
 const ApiError = require("../exceprions/api-error.js")
 
 class UserService {
-    async registration(email, password) {
+    async registration(email, password, firstName, lastName) {
         const candidate = await UserModel.findOne({ email })
+
         if (candidate) {
             throw ApiError.BadRequest(
                 `User with this e-mail address ${email} already exists`
@@ -19,6 +20,8 @@ class UserService {
         const user = await UserModel.create({
             email,
             password: hashPassword,
+            firstName,
+            lastName,
             activationLink,
         })
         await mailService.sendActivationMail(
@@ -50,7 +53,7 @@ class UserService {
         if (!user) {
             throw ApiError.BadRequest("User with this email not found")
         }
-        console.log(email, password)
+
         const isPassEquals = await bcrypt.compare(password, user.password)
         if (!isPassEquals) {
             throw ApiError.BadRequest("Incorrect Password ")

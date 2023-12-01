@@ -6,13 +6,20 @@ class USerController {
     async registration(req, res, next) {
         try {
             const errors = validationResult(req)
+
             if (!errors.isEmpty()) {
                 return next(
                     ApiError.BadRequest("Error of validation", errors.array())
                 )
             }
-            const { email, password } = req.body
-            const userData = await userService.registration(email, password)
+
+            const { email, password, firstName, lastName } = req.body
+            const userData = await userService.registration(
+                email,
+                password,
+                firstName,
+                lastName
+            )
             res.cookie("refreshToken", userData.refreshToken, {
                 maxAge: 30 * 24 * 60 * 60 * 1000,
                 httpOnly: true,
@@ -27,6 +34,7 @@ class USerController {
         try {
             const { email, password } = req.body
             const userData = await userService.login(email, password)
+
             res.cookie("refreshToken", userData.refreshToken, {
                 maxAge: 30 * 24 * 60 * 60 * 1000,
                 httpOnly: true,
